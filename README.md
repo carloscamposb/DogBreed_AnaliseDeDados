@@ -147,6 +147,7 @@ Criei páginas no relatório focadas em:
 * Algumas raças de cães possuiam mais de 4 caracteristicas positivas associadas sendo 4 cães de grande porte e 1 de pequeno porte.
 * O único caso de cão com menos características associadas foi observada para o Buldog Frânces, cão de pequeno porte com 3 características marcantes.
 
-
+--
+> Adotem Vira latinhas também  🐕✨
 
 
