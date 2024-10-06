@@ -132,8 +132,19 @@ Criei páginas no relatório focadas em:
 ----
 
 
-
-
+## Conclusões ✏️
+* Para casos de adoção focadas em raças de cachorro com a maior longevidade, provavelmente a preferência são cachorros de menor porte. Longevidade média (13-14 anos), cachorros de tamanho médio é uma boa aposta.
+* Nesse Dataset a maior parte das origens das raças são europeias:
+* As 5 maiores raças do Dataset são Europeias enquanto as 5 menores raças possuem uma distribuição continental maior
+* Durante a convivência com o cãe é importante saber que há uma grande chance dele desenvolver problemas oculares, dentais e/ou de pele. Pois são doenças comuns mais recorrentes para as raças de cães desse estudo
+* Valores únicos para doença foram observados para cancer em cães maiores e problemas respiratórios em cães menores
+* Majoritariamente os cães que forem adotados podem apresentar tais características inteligencia, bom humor , serem energéticos, brincalhoes e leais.
+* A caracteristica de ser energético foi mais atribuida a cães de pequeno porte:
+   > Um cão pequeno e enérgico é ideal para pessoas ativas, com tempo para brincadeiras e exercícios regulares, e que vivem em espaços menores, como apartamentos. Ele se adapta bem a famílias e indivíduos que gostam de interação constante.
+* Lealdade e inteligencia foram mais observadas em raças de cães de grande porte:
+  > Ideais para pessoas que buscam companheiros protetores, fáceis de treinar, e que se dão bem com os integrantes da família. Eles exigem espaço e exercícios regulares para manter a saúde e o bem-estar. 
+* Algumas raças de cães possuiam mais de 4 caracteristicas positivas associadas sendo 4 cães de grande porte e 1 de pequeno porte.
+* O único caso de cão com menos características associadas foi observada para o Buldog Frânces, cão de pequeno porte com 3 características marcantes.
 
 
 
