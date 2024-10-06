@@ -23,7 +23,8 @@ O banco de dados incluía informações sobre:
 * **Character Traits**:	Caracteristicas típicas para a raça do cachorro <br>
 * **Common Health Problems**:	Problemas comuns para a raça do cachorro <br>
 <br>
-💡Senti falta do peso e do gênero dos animais 
+💡Senti falta do peso e do gênero dos animais <br>
+💡As doenças virais e bacterianas não foram consideradas de forma explicita <br>
 
 ---
 ### Etapas de ETL <br>
