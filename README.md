@@ -58,7 +58,7 @@ Apliquei o .drop para apagar colunas que julguei não serem necessárias para as
 O projeto foi inspirado por uma empresa fictícia do setor pet, chamada Borcelle Dog's House 
 
 <div align=center>
-  <img src='https://github.com/user-attachments/assets/a13c897a-d7b0-421c-bb04-391ed9061f5d' weight= 400 />
+  <img src='https://github.com/user-attachments/assets/57eea564-f135-4f77-bca1-b9598fb0350c' weight= 400 />
 </div>
 
 Por meio dessa empresa foi definido as perguntas e direcionado as análises. As cores e a estrutura das visualizações foram elaboradas com esse cenário em mente.
